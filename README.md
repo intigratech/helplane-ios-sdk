@@ -115,7 +115,6 @@ HelpLane.configure(
 
 ## Support
 
-- Documentation: [docs.helplane.io](https://docs.helplane.io)
 - Issues: [GitHub Issues](https://github.com/intigratech/helplane-ios-sdk/issues)
 
 ## License
